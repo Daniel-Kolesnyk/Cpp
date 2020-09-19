@@ -1,0 +1,17 @@
+﻿  CreditCard.cpp
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(89,14): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(97,23): warning C4244: аргумент: преобразование "__int64" в "const long double", возможна потеря данных
+  Date.cpp
+  DebitCard.cpp
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(89,14): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(97,23): warning C4244: аргумент: преобразование "__int64" в "const long double", возможна потеря данных
+  Function.cpp
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(89,14): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(97,23): warning C4244: аргумент: преобразование "__int64" в "const long double", возможна потеря данных
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\Function.cpp(114,22): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(89,14): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\User.h(97,23): warning C4244: аргумент: преобразование "__int64" в "const long double", возможна потеря данных
+C:\Users\Daniel\Desktop\Project Finans\Project Finans\main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Project Finans.vcxproj -> C:\Users\Daniel\Desktop\Project Finans\Debug\Project Finans.exe
